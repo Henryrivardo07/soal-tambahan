@@ -37,7 +37,6 @@ Start Coding Here
 Implementasikan fungsi transformObjectKeys dengan TypeScript Generic & Keyof Constraints.
 
 // Start coding here:
-
 // ------- don't change the code below -------
 const employee = {
 empId: 101,
