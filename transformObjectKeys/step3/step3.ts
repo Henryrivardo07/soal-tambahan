@@ -52,5 +52,5 @@ Ketika kamu menjalankan kode, hasilnya adalah objek baru yang memiliki key yang 
 
 { userId: 123, namediubah: "Jane Doe" }🔥🔥🔥🔥🔥
 
-Semoga penjelasan ini bermanfaat dan membantu kamu lebih memahami kode ini! Semangattttt Gesss🔥🔥🔥
+ Semangattttt Gesss🔥🔥🔥
 */

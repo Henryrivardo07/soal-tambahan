@@ -42,5 +42,5 @@ Objek employee berisi informasi karyawan dengan properti empId, fullName, dan de
 Objek keyMap memberikan petunjuk bahwa empId harus diganti menjadi id dan fullName menjadi name.
 Fungsi transformKeys mengambil objek employee dan keyMap, lalu mengganti properti sesuai dengan yang tertera di keyMap. Jika tidak ada perubahan, properti tersebut tetap dipertahankan.
 Hasil dari fungsi ini adalah objek baru dengan nama properti yang sudah diubah sesuai dengan keyMap.
-Semoga penjelasan ini bermanfaat dan membantu kamu lebih memahami kode ini! Semangattttt Gesss🔥🔥🔥
+Semoga penjelasan ini bermanfaat dan membantu kamu lebih memahami codingan ini! Semangattttt Gesss🔥🔥🔥
 */
